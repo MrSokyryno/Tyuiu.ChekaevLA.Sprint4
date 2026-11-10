@@ -1,0 +1,42 @@
+<Solution>
+  <Folder Name="/Tyuiu.ChekaevLA.Sprint4.Task0.V21/">
+    <Project Path="Tyuiu.ChekaevLA.Sprint4.Task0.V21.Lib/Tyuiu.ChekaevLA.Sprint4.Task0.V21.Lib.csproj" />
+    <Project Path="Tyuiu.ChekaevLA.Sprint4.Task0.V21.Test/Tyuiu.ChekaevLA.Sprint4.Task0.V21.Test.csproj" />
+    <Project Path="Tyuiu.ChekaevLA.Sprint4.Task0.V21/Tyuiu.ChekaevLA.Sprint4.Task0.V21.csproj" />
+  </Folder>
+  <Folder Name="/Tyuiu.ChekaevLA.Sprint4.Task1.V1/">
+    <Project Path="Tyuiu.ChekaevLA.Sprint4.Task1.V1.Lib/Tyuiu.ChekaevLA.Sprint4.Task1.V1.Lib.csproj" />
+    <Project Path="Tyuiu.ChekaevLA.Sprint4.Task1.V1.Test/Tyuiu.ChekaevLA.Sprint4.Task1.V1.Test.csproj" />
+    <Project Path="Tyuiu.ChekaevLA.Sprint4.Task1.V1/Tyuiu.ChekaevLA.Sprint4.Task1.V1.csproj" />
+  </Folder>
+  <Folder Name="/Tyuiu.ChekaevLA.Sprint4.Task2.V7/">
+    <Project Path="Tyuiu.ChekaevLA.Sprint4.Task2.V7.Lib/Tyuiu.ChekaevLA.Sprint4.Task2.V7.Lib.csproj" />
+    <Project Path="Tyuiu.ChekaevLA.Sprint4.Task2.V7.Test/Tyuiu.ChekaevLA.Sprint4.Task2.V7.Test.csproj" />
+    <Project Path="Tyuiu.ChekaevLA.Sprint4.Task2.V7/Tyuiu.ChekaevLA.Sprint4.Task2.V7.csproj" />
+  </Folder>
+  <Folder Name="/Tyuiu.ChekaevLA.Sprint4.Task3.V25/">
+    <Project Path="Tyuiu.ChekaevLA.Sprint4.Task3.V25.Lib/Tyuiu.ChekaevLA.Sprint4.Task3.V25.Lib.csproj" />
+    <Project Path="Tyuiu.ChekaevLA.Sprint4.Task3.V25.Test/Tyuiu.ChekaevLA.Sprint4.Task3.V25.Test.csproj" />
+    <Project Path="Tyuiu.ChekaevLA.Sprint4.Task3.V25/Tyuiu.ChekaevLA.Sprint4.Task3.V25.csproj" />
+  </Folder>
+  <Folder Name="/Tyuiu.ChekaevLA.Sprint4.Task4.V26/">
+    <Project Path="Tyuiu.ChekaevLA.Sprint4.Task4.V26.Lib/Tyuiu.ChekaevLA.Sprint4.Task4.V26.Lib.csproj" />
+    <Project Path="Tyuiu.ChekaevLA.Sprint4.Task4.V26.Test/Tyuiu.ChekaevLA.Sprint4.Task4.V26.Test.csproj" />
+    <Project Path="Tyuiu.ChekaevLA.Sprint4.Task4.V26/Tyuiu.ChekaevLA.Sprint4.Task4.V26.csproj" />
+  </Folder>
+  <Folder Name="/Tyuiu.ChekaevLA.Sprint4.Task5.V7/">
+    <Project Path="Tyuiu.ChekaevLA.Sprint4.Task5.V7.Lib/Tyuiu.ChekaevLA.Sprint4.Task5.V7.Lib.csproj" />
+    <Project Path="Tyuiu.ChekaevLA.Sprint4.Task5.V7.Test/Tyuiu.ChekaevLA.Sprint4.Task5.V7.Test.csproj" />
+    <Project Path="Tyuiu.ChekaevLA.Sprint4.Task5.V7/Tyuiu.ChekaevLA.Sprint4.Task5.V7.csproj" />
+  </Folder>
+  <Folder Name="/Tyuiu.ChekaevLA.Sprint4.Task6.V4/">
+    <Project Path="Tyuiu.ChekaevLA.Sprint4.Task6.V4.Lib/Tyuiu.ChekaevLA.Sprint4.Task6.V4.Lib.csproj" />
+    <Project Path="Tyuiu.ChekaevLA.Sprint4.Task6.V4.test/Tyuiu.ChekaevLA.Sprint4.Task6.V4.test.csproj" DisplayName="Tyuiu.ChekaevLA.Sprint4.Task6.V4.Test" Id="7e399930-52ab-4547-b17a-fd9b335cc37b" />
+    <Project Path="Tyuiu.ChekaevLA.Sprint4.Task6.V4/Tyuiu.ChekaevLA.Sprint4.Task6.V4.csproj" />
+  </Folder>
+  <Folder Name="/Tyuiu.ChekaevLA.Sprint4.Task7.V19/">
+    <Project Path="Tyuiu.ChekaevLA.Sprint4.Task7.V19.LIb/Tyuiu.ChekaevLA.Sprint4.Task7.V19.LIb.csproj" DisplayName="Tyuiu.ChekaevLA.Sprint4.Task7.V19.Lib" Id="8743af98-a070-46e6-abd2-e94fe814dd40" />
+    <Project Path="Tyuiu.ChekaevLA.Sprint4.Task7.V19.Test/Tyuiu.ChekaevLA.Sprint4.Task7.V19.Test.csproj" />
+    <Project Path="Tyuiu.ChekaevLA.Sprint4.Task7.V19/Tyuiu.ChekaevLA.Sprint4.Task7.V19.csproj" />
+  </Folder>
+</Solution>
